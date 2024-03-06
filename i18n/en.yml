@@ -58,7 +58,6 @@ home:
         korean: Korean
         german: German
         vietnamese: 
-        portuguese: Brazil and Portugal
 
 translations:
   simplified_chinese: Chinese
@@ -71,6 +70,7 @@ translations:
   spanish: Spanish
   bulgarian: Bulgarian
   russian: Russian
+  portuguese: Brazil and Portugal
 
 overview:
   scrum_primer_translations: Scrum Primer Translations
